@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """punchcrypt — encrypt data onto IBM 80-column punched cards."""
 from . import cipher, hollerith
 
